@@ -10,7 +10,9 @@
   "dependencies": {
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
-    "vue-router": "^3.0.3"
+    "vue-native-websocket": "^2.0.13",
+    "vue-router": "^3.0.3",
+    "ws": "^7.1.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
